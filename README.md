@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I'm Nicolas Santos, a front-end developer born in Campinas - SP, Brazil. Passionate about technology and design, I enjoy transforming ideas into interactive interfaces with JavaScript, React and Angular, using my skills and learnings. This is the place where I share my knowledge and built through technology, which I am always looking to improve. Welcome!</p>
+<p align="left">Hi, I'm Nicolas Santos, a front-end developer born in Campinas - SP, Brazil. Passionate about technology and design, I enjoy transforming ideas into interactive interfaces with JavaScript Typescript and React, using my skills and learnings. This is the place where I share my knowledge and built through technology, which I am always looking to improve. Welcome!</p>
 
 ###
 
